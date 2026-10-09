@@ -1,7 +1,7 @@
-# Budgetprototyp
+# Wilma's External User Testing
 
-Publik, klickbar prototyp av Budget i Fortnox (Forma). Byggd som en enda HTML-fil från Forma Prototype Kit.
+Publika, klickbara prototyper för användartester med personer utanför Fortnox. Byggda som en enda HTML-fil från Forma Prototype Kit.
 
-Länk: https://wilmalindback-prog.github.io/budget-prototyp-site/#/prototypes/budget
+Länk: https://wilmalindback-prog.github.io/wilmas-external-user-testing/
 
-Innehåller bara den byggda prototypen – ingen research eller interna dokument. Uppdateras med `npm run publish:site` från prototypkitet.
+Innehåller just nu bara budgetprototypen. Ingen research eller interna dokument. Uppdateras med `npm run publish:site` från prototypkitet.
